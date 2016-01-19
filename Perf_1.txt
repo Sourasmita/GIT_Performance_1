@@ -9,7 +9,11 @@ CCCCCCCCCCCCCCCCCCCCCCC
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 DDDDDDDDDDDDDDDDDDD
+=======
+EEEEEEEEEEEEE
+>>>>>>> origin/master
 =======
 EEEEEEEEEEEEE
 >>>>>>> origin/master
